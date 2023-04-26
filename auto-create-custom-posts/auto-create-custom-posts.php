@@ -2,7 +2,7 @@
 Plugin Name: Auto Create Custom Posts
 Plugin URI: https://www.example.com/
 Description: A plugin that allows users to automatically publish posts of one custom post type when a post from a separate custom post type is created
-Version: 1.0.0
+Version: 1.0.069 hehehe
 Author: Kevin Garofalo
 Author URI: https://dibraco.com
 License: GPL2
